@@ -1,0 +1,26 @@
+@media (min-width: 1800px) {
+  .container .qr-component {
+    width: 400px;
+    border-radius: 20px;
+    padding: 20px;
+  }
+
+  .qr-component .qr-code {
+    margin-bottom: 27px;
+    border-radius: 16px;
+  }
+
+  .qr-component .informations {
+    padding: 0 14px;
+  }
+
+  .informations .component-title {
+    margin-bottom: 14px;
+    font-size: 2.8rem;
+  }
+
+  .informations .component-text {
+    margin-bottom: 27px;
+    font-size: 2rem;
+  }
+}
