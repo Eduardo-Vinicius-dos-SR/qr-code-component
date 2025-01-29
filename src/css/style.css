@@ -14,7 +14,7 @@ body {
 }
 
 .container .qr-component {
-  width: 300px;
+  width: 325px;
   border-radius: 15px;
   padding: 15px;
   background-color: var(--White);
@@ -33,7 +33,7 @@ body {
 
 .informations .component-title {
   margin-bottom: 15px;
-  font-size: 2.1rem;
+  font-size: 2.2rem;
   color: var(--Slate-900);
 }
 
